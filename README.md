@@ -1,2 +1,2 @@
 # MG-SHIP
-The codes for MG-SHIP framework
+The codes for PRIM-G framework
